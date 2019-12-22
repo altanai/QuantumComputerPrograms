@@ -1,5 +1,7 @@
 # Quantum Computer Programs
 
+Full explanation of these examples https://programmingaltanai.wordpress.com/2019/12/22/quantum-computing/
+
 **Qubits**
 
 Current computers manipulate individual bits as binary 0 and 1 states but Quantum computers leverage quantum mechanical phenomena to manipulate information, relying on quantum bits, or qubits.
