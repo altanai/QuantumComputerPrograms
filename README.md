@@ -20,7 +20,7 @@ quantum circuit usually starts with the qubits in the |0,…,0> state and evolve
 
 A quantum gate is a basic quantum circuit operating on a small number of qubits. Number of qubits in the input and output of the gate must be equal
 
-##Hammard Gate
+## Hammard Gate
 
 gate rotates the states |0⟩ and |1⟩ to |+⟩ and |−⟩ .
 It acts on a single qubit. It maps the basis state.
@@ -29,13 +29,13 @@ It acts on a single qubit. It maps the basis state.
 
 This means that measurement will have equal probabilities to become 0 or 1 thereby creating a state of superimposition.
 
-##Controlled (cX cY cZ) gates
+## Controlled (cX cY cZ) gates
 
 controlled-X gate also called  controlled-NOT
 acts on a pair of qubits, with one acting as ‘control’ and the other as ‘target.
 whenever the control is in state |1⟩ 
 
-##X, Y , Z Gates
+## X, Y , Z Gates
 
 rotating the qubit state around the x , y or z axis by the given angle.
 On the Bloch sphere
@@ -43,24 +43,24 @@ On the Bloch sphere
 - Ry Gate - corresponds to rotating the qubit state around the y axis by the given angle.
 - Rz Gate - corresponds to rotating the qubit state around the z axis by the given angle.
 
-##Pauli- X, Pauli-Y , Pauli-Z gates
+## Pauli- X, Pauli-Y , Pauli-Z gates
 
 Acts on a single qubit. It equates to a rotation around the X, Y and Z-axis  by  radians
 - Pauli-X maps |0} to |1} and |1} to |0} . Thus also called bit flip
 - Pauli-Y maps |0} to i|1} and |1} to -i|0} . Thus also called bit flip
 - Pauli-Z matrix leaves the basis state |0} unchanged and maps |1} to -|1} . It is also called phase-flip
 
-##U1 , U2 and U3 gates
+## U1 , U2 and U3 gates
 
 - U1 - Equivalent to Rz.
 - U2 - two parameters control two different rotations within the gate. Has a duration of one unit of gate time.
 - U3 -three parameters allow the construction of any single qubit gate, Has a duration of one unit of gate time.
 
-##SWAP Gate 
+## SWAP Gate 
 
 Swaps the state of 2 qubits 
 
-##$latex \sqrt{2}  $ SWAP
+## $latex \sqrt{2}  $ SWAP
 
 performs half-way of a two-qubit swap
 
