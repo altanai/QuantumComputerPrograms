@@ -13,7 +13,7 @@ nbconvert==5.6.1
 nbformat==4.4.0
 nest-asyncio==1.2.1
 networkx==2.4
-notebook==6.0.2
+notebook==6.4.10
 ntlm-auth==1.4.0
 numpy==1.17.2
 qiskit-aer==0.3.4
