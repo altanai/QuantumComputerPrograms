@@ -15,7 +15,7 @@ nest-asyncio==1.2.1
 networkx==2.4
 notebook==6.4.10
 ntlm-auth==1.4.0
-numpy==1.21.0
+numpy==1.22.0
 qiskit-aer==0.3.4
 qiskit-ibmq-provider==0.4.5
 qiskit-terra==0.11.0
